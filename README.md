@@ -1,2 +1,2 @@
 # planning-octopus
-Simple TODO list API with a fanct name
+Simple TODO list API with a fancy name
